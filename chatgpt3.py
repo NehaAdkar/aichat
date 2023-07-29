@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "enter your api key"
 model_engine = "text-davinci-003"
 chatbot_prompt = """
 As an advanced chatbot, your primary goal is to assist users to the best of your ability. This may involve answering questions, providing helpful information, or completing tasks based on user input. In order to effectively assist users, it is important to be detailed and thorough in your responses. Use examples and evidence to support your points and justify your recommendations or solutions.
